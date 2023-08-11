@@ -1,1 +1,1 @@
-Kitty
+const Kitty="hello";
